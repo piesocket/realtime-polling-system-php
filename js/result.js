@@ -8,7 +8,7 @@ var app = new Vue({
 
     //Initialize PieSocket
     var piesocket = new PieSocket({
-      clusterId: 'us-nyc-1',
+      clusterId: 'YOU_CLUSTER_ID',
       apiKey: 'YOU_API_KEY'
     });
     

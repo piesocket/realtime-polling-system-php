@@ -1,8 +1,13 @@
 # Realtime Polling System
 Real-time polling system with  PieSocket
 
+## Configurations
+Add PieSocket credentials in following files 
+- `partials/functions.php`
+- `js/result.js`
+- `js/voter.js`
+
 ## Usage
-- Add PieSocket credentials in `partials/functions.php`
 - Open `admin.php` in a tab
 - Open `voter.php` in single or multiple tabs
 - Push a question from `admin.php`
