@@ -9,7 +9,7 @@ var app = new Vue({
     //Initialize PieSocket
     var piesocket = new PieSocket({
       clusterId: 'us-nyc-1',
-      apiKey: 'QMYLBfoA7rAevSiYhQUcKUfgKS4CkUTR87um8uTV'
+      apiKey: 'YOU_API_KEY'
     });
     
     //Subscribe
