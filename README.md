@@ -1,6 +1,9 @@
 # Realtime Polling System
 Real-time polling system with  PieSocket
 
+## Tutorial
+There is a tutorial for this repository published on PieSocket: [Building A Polling System With WebSockets in PHP](https://www.piesocket.com/blog/polling-system-in-php-with-websocket/)
+
 ## Configurations
 Add PieSocket credentials in following files 
 - `partials/functions.php`
